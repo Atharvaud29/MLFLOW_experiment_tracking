@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Atharv/.vscode/MLFlow/mlruns/902136725540210063/8443811c77374655a6ce787bdca0fdf8/artifacts
+end_time: 1743429529258
+entry_point_name: ''
+experiment_id: '902136725540210063'
+lifecycle_stage: active
+run_id: 8443811c77374655a6ce787bdca0fdf8
+run_name: XGBClassifier
+run_uuid: 8443811c77374655a6ce787bdca0fdf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743429522177
+status: 3
+tags: []
+user_id: Atharv

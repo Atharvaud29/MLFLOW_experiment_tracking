@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Atharv/.vscode/MLFlow/mlruns/902136725540210063/a3ae96f1885d47f3bbc5b2d82bad8389/artifacts
+end_time: 1743526891438
+entry_point_name: ''
+experiment_id: '902136725540210063'
+lifecycle_stage: active
+run_id: a3ae96f1885d47f3bbc5b2d82bad8389
+run_name: Logistic Regression
+run_uuid: a3ae96f1885d47f3bbc5b2d82bad8389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743526662967
+status: 3
+tags: []
+user_id: Atharv

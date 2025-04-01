@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743442082989
+current_stage: None
+description: ''
+last_updated_timestamp: 1743442082989
+name: XGB-Smote
+run_id: e90fb223eb644e7da85a6fb430afbcef
+run_link: ''
+source: file:///c:/Users/Atharv/.vscode/MLFlow/mlruns/902136725540210063/e90fb223eb644e7da85a6fb430afbcef/artifacts/model_name
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Atharv/.vscode/MLFlow/mlruns/902136725540210063/e90fb223eb644e7da85a6fb430afbcef/artifacts/model_name
+user_id: null
+version: 2

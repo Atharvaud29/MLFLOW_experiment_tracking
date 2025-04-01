@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Atharv/.vscode/MLFlow/mlruns/780861787939645777/9a77977a3e4141299ba9e4bb518cb254/artifacts
+end_time: 1743428602764
+entry_point_name: ''
+experiment_id: '780861787939645777'
+lifecycle_stage: active
+run_id: 9a77977a3e4141299ba9e4bb518cb254
+run_name: capable-owl-806
+run_uuid: 9a77977a3e4141299ba9e4bb518cb254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743428591724
+status: 3
+tags: []
+user_id: Atharv

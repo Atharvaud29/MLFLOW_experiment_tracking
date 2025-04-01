@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Atharv/.vscode/MLFlow/mlruns/902136725540210063/2c48b8dcca9d457ba3f540a6bf5b916f/artifacts
+end_time: 1743429522150
+entry_point_name: ''
+experiment_id: '902136725540210063'
+lifecycle_stage: active
+run_id: 2c48b8dcca9d457ba3f540a6bf5b916f
+run_name: Random Forest
+run_uuid: 2c48b8dcca9d457ba3f540a6bf5b916f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743429515549
+status: 3
+tags: []
+user_id: Atharv

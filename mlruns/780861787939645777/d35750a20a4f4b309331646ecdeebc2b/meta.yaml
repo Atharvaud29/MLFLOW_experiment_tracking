@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Atharv/.vscode/MLFlow/mlruns/780861787939645777/d35750a20a4f4b309331646ecdeebc2b/artifacts
+end_time: 1743526511240
+entry_point_name: ''
+experiment_id: '780861787939645777'
+lifecycle_stage: active
+run_id: d35750a20a4f4b309331646ecdeebc2b
+run_name: enchanting-sow-167
+run_uuid: d35750a20a4f4b309331646ecdeebc2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743526457051
+status: 3
+tags: []
+user_id: Atharv

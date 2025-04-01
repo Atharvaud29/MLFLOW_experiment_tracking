@@ -1,0 +1,7 @@
+aliases:
+  challanger: '1'
+  champion: '2'
+creation_timestamp: 1743441863795
+description: This model was trained on oversampled dataset and the classifier is XGB
+last_updated_timestamp: 1743526891411
+name: XGB-Smote

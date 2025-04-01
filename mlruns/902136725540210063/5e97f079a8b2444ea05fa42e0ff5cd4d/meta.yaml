@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Atharv/.vscode/MLFlow/mlruns/902136725540210063/5e97f079a8b2444ea05fa42e0ff5cd4d/artifacts
+end_time: 1743441863852
+entry_point_name: ''
+experiment_id: '902136725540210063'
+lifecycle_stage: active
+run_id: 5e97f079a8b2444ea05fa42e0ff5cd4d
+run_name: XGBClassifier With SMOTE
+run_uuid: 5e97f079a8b2444ea05fa42e0ff5cd4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743441401146
+status: 3
+tags: []
+user_id: Atharv
